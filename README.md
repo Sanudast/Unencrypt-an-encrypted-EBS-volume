@@ -67,7 +67,13 @@ Select the rescue instance and click attach volume.
 
 ![image](https://user-images.githubusercontent.com/100775801/161938161-8690a3c2-a759-41d6-a48e-9e5cc678c7b1.png)
 
-Now the attached instance is /dev/sdf
+Now the attached volume is /dev/sdf
+
+Next we ara attaching the newly created volume by following the same setps.
+
+![image](https://user-images.githubusercontent.com/100775801/161938822-1cbcefa1-3d9d-4388-bdea-32e9541f09da.png)
+
+The second attached volume is
 
 
 
