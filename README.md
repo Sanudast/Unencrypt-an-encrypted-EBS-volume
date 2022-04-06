@@ -4,7 +4,7 @@
 
 In this article, I will help you to unencrypt an encrypted EBS volume. We would able to encrypt an EBS volume when we creating the volume. Encrypting would enable an extra safty to the volume. If we lost the key used for the encryption, it would be more difficult to keep the instance. So here am mentioning the steps to unencrypt an encrypted EBS volume.
 
-### Table of Contents
+## Table of Contents
 
 1. Stop the instance which have the encrypted volume.
 2. Dettaching the volume from the instance.
